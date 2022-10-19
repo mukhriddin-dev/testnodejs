@@ -1,0 +1,16 @@
+{
+  "name": "lesson-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukhriddin",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "bootstrap-icons": "^1.9.1",
+    "json-server": "^0.17.0"
+  }
+}
